@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-image: url("https://data.whicdn.com/images/77526318/large.jpg");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: bold;
+}
+
+#addBurgerRow {
+    background-color: rgba(255,0,0,0.7);
+    padding: 30px;
+    margin-top: 50px;
+    border: black 6px solid;
+}
+
+#burgerInfoRow {
+    background-color: rgba(255,165,0,0.7);
+    padding: 30px;
+    margin-top: 30px;
+    border: black 10px dotted;
+}
+
+#burgerTitle {
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-family: 'Fascinate Inline', cursive; 
+}
